@@ -1,0 +1,171 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#f5f5f5">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Title -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Enter Previous 4 Years' Profit Details"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:paddingBottom="20dp" />
+
+            <!-- Year 1 Details -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Year 1"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:paddingBottom="8dp" />
+            <EditText
+                android:id="@+id/year1CropsInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Crops"
+                android:textColor="#000000"
+                android:inputType="text"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/year1AcresInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Acres"
+                android:textColor="#000000"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/year1ProfitInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Profit (₹)"
+                android:textColor="#000000"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="20dp"/>
+
+            <!-- Year 2 Details -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Year 2"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:paddingBottom="8dp" />
+            <EditText
+                android:id="@+id/year2CropsInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Crops"
+                android:textColor="#000000"
+                android:inputType="text"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/year2AcresInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Acres"
+                android:textColor="#000000"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/year2ProfitInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Profit (₹)"
+                android:textColor="#000000"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="20dp"/>
+
+            <!-- Year 3 Details -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Year 3"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:paddingBottom="8dp" />
+            <EditText
+                android:id="@+id/year3CropsInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Crops"
+                android:textColor="#000000"
+                android:inputType="text"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/year3AcresInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Acres"
+                android:textColor="#000000"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/year3ProfitInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Profit (₹)"
+                android:textColor="#000000"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="20dp"/>
+
+            <!-- Year 4 Details -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Year 4"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:paddingBottom="8dp" />
+            <EditText
+                android:id="@+id/year4CropsInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Crops"
+                android:textColor="#000000"
+                android:inputType="text"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/year4AcresInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Acres"
+                android:textColor="#000000"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="10dp"/>
+            <EditText
+                android:id="@+id/year4ProfitInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Profit (₹)"
+                android:textColor="#000000"
+                android:inputType="numberDecimal"
+                android:layout_marginBottom="20dp"/>
+            <Button
+                android:id="@+id/nextButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:background="#4CAF50"
+                android:layout_marginTop="24dp"
+                android:padding="12dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
