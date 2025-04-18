@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_41.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_41.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-pngs-34:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_18.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_18.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_48.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_48.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_landnext_details.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_landnext_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_owner_login_acitvity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\owner_login_acitvity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_26.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_26.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_11.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_11.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_userprofile_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\userprofile_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_49.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_49.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_10.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_10.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_42.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_42.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-pngs-34:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_roundedbar.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\roundedbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_weather_report.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_weather_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_smart_land_listings.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_smart_land_listings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_harvest_background.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\harvest_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_editprofileactivity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\editprofileactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_landdocuments_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\landdocuments_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_33.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_33.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-pngs-34:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_20.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_20.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_17.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_17.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_user_register_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\user_register_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_search_lands_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\search_lands_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_item_photo.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_35.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_35.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-pngs-34:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_status_background.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\status_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_user_login_acitvity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\user_login_acitvity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-pngs-34:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_search.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_32.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_32.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_placeholder_land.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\placeholder_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_43.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_43.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_item_land_listing.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\item_land_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_land_details.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_land_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_40.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_40.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_15.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_15.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_50.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_50.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_28.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_28.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_38.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_38.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_circle_border.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\circle_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_25.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_25.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_12.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_12.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_land_history.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_land_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_22.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_22.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_welcome_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\welcome_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_9.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_9.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_land_listing.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_land_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-pngs-34:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-pngs-34:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_14.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_14.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_45.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_45.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_30.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_30.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_mobile.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\mobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_rounded_corner_bg.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\rounded_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_circircle_shape.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\circircle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_29.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_29.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_37.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_37.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_land_list.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_land_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_36.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_36.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_8.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_8.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_item_wishlist_card.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\item_wishlist_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_map_fragment.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\map_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_23.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_23.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_smart_analysis.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_smart_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_notification_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\notification_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_ownerhomeactivity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\ownerhomeactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_red_dot_background.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\red_dot_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_search_lands.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_search_lands.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_46.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_46.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_adangal.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\adangal.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_item_land_post.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\item_land_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_7.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_7.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_16.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_16.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_notificaton.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\notificaton.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_custom_background.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\custom_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_userhomeactivity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\userhomeactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_land_detail.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_land_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_39.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_39.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_27.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_27.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_basic_information.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_basic_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_bhanu.jpg.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\bhanu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_13.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_13.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_error_land.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\error_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_ownerprofile_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\ownerprofile_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_photoupload_activty.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\photoupload_activty.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_24.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_24.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_forgotpassword_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\forgotpassword_activity.xml"
+    },
+    {
+        "merged": "com.simats.harvesthaven.app-debug-38:/layout_landcalculator_activity.xml.flat",
+        "source": "com.simats.harvesthaven.app-main-40:/layout/landcalculator_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_edit_profile_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\edit_profile_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_34.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_34.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_19.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_19.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_oneb.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\oneb.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_owner_register_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\owner_register_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_21.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_21.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_47.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_47.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_landcalculator_activity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\landcalculator_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_activity_wishlist.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\activity_wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\layout_mylistingsactivity.xml.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\layout\\mylistingsactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_31.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_31.png"
+    },
+    {
+        "merged": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-debug-38:\\drawable_img_44.png.flat",
+        "source": "C:\\Users\\mitta\\.gradle\\daemon\\8.10.2\\com.simats.harvesthaven.app-main-40:\\drawable\\img_44.png"
+    }
+]

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorSurface"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:title="Post Property"
+        app:titleTextColor="@android:color/black" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/toolbarIcon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/img_6"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:contentDescription="Icon"/>
+
+        <View
+            android:id="@+id/redDot"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:layout_alignEnd="@id/toolbarIcon"
+            android:layout_alignTop="@id/toolbarIcon"
+            android:layout_marginEnd="-2dp"
+            android:layout_marginTop="-2dp"
+            android:background="@drawable/red_dot_background"/>
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
+        app:layout_constraintBottom_toTopOf="@id/footer"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/rounded_corner_bg"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Land Details"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:paddingBottom="20dp"
+                android:textColor="#333"/>
+
+            <EditText
+                android:id="@+id/soilType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="e.g., Black soil, Red soil"
+                android:background="#f5f5f5"
+                android:padding="12dp"
+                android:textSize="16sp"
+                android:textColor="#000"
+                android:textColorHint="#777"/>
+
+            <EditText
+                android:id="@+id/cropTypes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter crop types"
+                android:background="#f5f5f5"
+                android:padding="12dp"
+                android:textSize="16sp"
+                android:textColor="#000"
+                android:textColorHint="#777"
+                android:layout_marginTop="12dp"/>
+
+            <EditText
+                android:id="@+id/rent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter expected rent"
+                android:inputType="number"
+                android:background="#f5f5f5"
+                android:layout_marginBottom="12dp"/>
+
+            <EditText
+                android:id="@+id/previousUse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Previous land use"
+                android:background="#f5f5f5"
+                android:padding="12dp"
+                android:textSize="16sp"
+                android:textColor="#000"
+                android:textColorHint="#777"
+                android:layout_marginBottom="16dp"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/amenitiesInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Add amenities"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.chip.ChipGroup
+                android:id="@+id/amenitiesChipGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="16dp">
+
+                <com.google.android.material.chip.Chip
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Water Storage"
+                    android:checkable="true"/>
+
+                <com.google.android.material.chip.Chip
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Electricity"
+                    android:checkable="true"/>
+
+                <com.google.android.material.chip.Chip
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Storage Facility"
+                    android:checkable="true"/>
+
+                <com.google.android.material.chip.Chip
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Fencing"
+                    android:checkable="true"/>
+            </com.google.android.material.chip.ChipGroup>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/restrictionsInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Add restrictions"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.chip.ChipGroup
+                android:id="@+id/restrictionsChipGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="16dp">
+
+                <com.google.android.material.chip.Chip
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No Chemical Fertilizers"
+                    android:checkable="true"/>
+
+                <com.google.android.material.chip.Chip
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Organic Farming Only"
+                    android:checkable="true"/>
+
+                <com.google.android.material.chip.Chip
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No Heavy Machinery"
+                    android:checkable="true"/>
+            </com.google.android.material.chip.ChipGroup>
+                android:padding="12dp"
+                android:textSize="16sp"
+                android:textColor="#000"
+                android:textColorHint="#777"
+                android:layout_marginTop="12dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <Button
+            android:id="@+id/nextButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="next"
+            android:backgroundTint="#4CAF50"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,6 @@
+com.simats.harvesthaven.test.app-core-1.5.0-0 C:\Users\mitta\.gradle\caches\8.10.2\transforms\3c8ef15b782248ecf0cfebf0517d84f3\transformed\core-1.5.0\res
+com.simats.harvesthaven.test.app-annotation-experimental-1.3.0-1 C:\Users\mitta\.gradle\caches\8.10.2\transforms\963f7a626cfb52dae66ae6704036c952\transformed\annotation-experimental-1.3.0\res
+com.simats.harvesthaven.test.app-androidTest-2 C:\Users\mitta\AndroidStudioProjects\HarvestHeaven\app\build\generated\res\resValues\androidTest\debug
+com.simats.harvesthaven.test.app-mergeDebugAndroidTestResources-3 C:\Users\mitta\AndroidStudioProjects\HarvestHeaven\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.simats.harvesthaven.test.app-mergeDebugAndroidTestResources-4 C:\Users\mitta\AndroidStudioProjects\HarvestHeaven\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.simats.harvesthaven.test.app-debugAndroidTest-5 C:\Users\mitta\AndroidStudioProjects\HarvestHeaven\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

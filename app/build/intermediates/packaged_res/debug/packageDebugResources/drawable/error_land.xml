@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="150dp"
+    android:viewportWidth="200"
+    android:viewportHeight="150">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#FFEBEE"
+        android:pathData="M0,0h200v150h-200z" />
+
+    <!-- Broken Image Icon -->
+    <path
+        android:fillColor="#EF5350"
+        android:pathData="M80,45h40v60h-40z" />
+    <path
+        android:fillColor="#EF5350"
+        android:pathData="M75,50l25,-15l25,15" />
+
+    <!-- Error Cross (X) -->
+    <path
+        android:strokeColor="#D32F2F"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M90,65l20,20M110,65l-20,20" />
+
+    <!-- Error Message Line -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M60,100h80v5h-80z" />
+</vector>

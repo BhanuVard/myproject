@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="150dp"
+    android:viewportWidth="200"
+    android:viewportHeight="150">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M0,0h200v150h-200z" />
+
+    <!-- Mountains/Land Silhouette -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M0,60 L40,40 L80,70 L120,30 L160,50 L200,35 L200,150 L0,150 Z" />
+
+    <!-- Sun -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M160,30 A15,15 0 1,1 160,29.9" />
+
+    <!-- House Icon -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M85,65 L115,65 L115,85 L85,85 Z" />
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M80,65 L100,50 L120,65" />
+</vector>
